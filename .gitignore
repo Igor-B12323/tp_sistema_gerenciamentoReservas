@@ -1,0 +1,12 @@
+# Credenciais do banco de dados
+config.properties
+
+# Compilados Java
+*.class
+bin/
+out/
+
+# Configurações de IDE e Sistema
+.vscode/
+Thumbs.db
+.DS_Store
